@@ -119,7 +119,7 @@ endmodule
 
 ```
 ### Testbench
-```
+```verilog
 
 module tb_moore_seq_detector;
 reg clk,reset,in;
